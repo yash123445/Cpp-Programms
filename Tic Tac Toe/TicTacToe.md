@@ -1,4 +1,4 @@
-** Tic-Tac-Toe in Cpp**
+##Tic-Tac-Toe in Cpp##
 
 This repository contains a simple console-based Tic-Tac-Toe game implemented in C++. Players take turns to make a move, and the game continues until there is a winner or a draw. 
 The game board is displayed in the console, and players input their moves by entering numbers 1-9. 
